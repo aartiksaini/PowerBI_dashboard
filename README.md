@@ -34,7 +34,7 @@ This project demonstrates the analysis of store sales data, including forecastin
 #### Use Case:
 Gain actionable insights into sales trends and performance across regions, categories, and customer segments.
 
-![Store Sales Dashboard](Sales_Dashboard.png)
+![Store Sales Dashboard](Sales Dashboard.png)
 
 ---
 
