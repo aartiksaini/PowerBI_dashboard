@@ -34,7 +34,7 @@ This project demonstrates the analysis of store sales data, including forecastin
 #### Use Case:
 Gain actionable insights into sales trends and performance across regions, categories, and customer segments.
 
-![Store Sales Dashboard](Screenshot%202024-12-02%20023703.png)
+![Store Sales Dashboard](Sales_Dashboard.png)
 
 ---
 
@@ -51,7 +51,7 @@ Gain actionable insights into sales trends and performance across regions, categ
 #### Use Case:
 Predict sales to optimize inventory and resource allocation.
 
-![Store Sales Forecast](Screenshot%202024-12-02%20023729.png)
+![Store Sales Forecast](Forecasting.png)
 
 ---
 
@@ -69,3 +69,38 @@ Predict sales to optimize inventory and resource allocation.
 1. Clone the repository:  
    ```bash
    git clone https://github.com/aartiksaini/PowerBI_dashboard.git
+
+---
+## Insights Gained
+
+1. **Forecast Accuracy:**  
+   - Enabled accurate prediction of sales trends, aiding in better inventory management and resource allocation.
+2. **Category Analysis:**  
+   - Identified top-performing categories and sub-categories, such as Phones and Chairs, allowing for targeted marketing efforts.
+3. **Geographical Trends:**  
+   - State-wise sales distribution provided insights into regional performance and opportunities for expansion.
+4. **Customer Segmentation:**  
+   - Breakdown of customer segments by sales and payment methods helped in crafting tailored strategies for customer engagement.
+
+---
+
+## Future Improvements
+
+1. **Dynamic Filtering:**  
+   - Integrate more advanced filtering options, such as time-range selection or multi-layer filtering, for enhanced analysis flexibility.
+2. **Enhanced Forecasting:**  
+   - Incorporate external variables like holidays, promotions, and seasonality to further improve forecasting accuracy.
+3. **Drill-Through Functionality:**  
+   - Add drill-through capabilities to allow users to explore data at granular levels, such as specific regions or product lines.
+4. **Real-Time Updates:**  
+   - Enable real-time data integration for up-to-date analysis and decision-making.
+
+---
+
+## Contact
+
+For questions, feedback, or collaboration opportunities, feel free to reach out:
+
+- **Email:** sainiaartik8394@gmail.com  
+- **GitHub:** [aartiksaini GitHub Profile](https://github.com/aartiksaini)
+
